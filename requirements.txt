@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.54.0
+langchain==1.4.2
+langchain-openai==1.6.3
+mysql-connector-python==26.7.0
+python-dotenv==1.2.3
